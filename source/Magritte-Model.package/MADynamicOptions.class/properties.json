@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"block" ],
+		"block",
+		"completionToObjectBlock",
+		"includesBlock" ],
 	"name" : "MADynamicOptions",
 	"pools" : [
 		 ],
