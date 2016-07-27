@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Pharo3-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MAFileSystem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
