@@ -10,5 +10,5 @@
 	"name" : "MANamedBuilder",
 	"pools" : [
 		 ],
-	"super" : "MADescriptionBuilderOld",
+	"super" : "MADescriptionBuilder",
 	"type" : "normal" }

@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"cache" ],
-	"name" : "MADescriptionBuilderOld",
+	"name" : "MADescriptionBuilder",
 	"pools" : [
 		 ],
 	"super" : "MABasicObject",
