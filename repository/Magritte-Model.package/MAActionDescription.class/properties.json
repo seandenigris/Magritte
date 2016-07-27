@@ -4,11 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
-		"displayBlock" ],
-	"name" : "MAElementDescription",
+		"selector",
+		"enableBlock",
+		"model" ],
+	"name" : "MAActionDescription",
 	"pools" : [
 		 ],
-	"super" : "MADescription",
+	"super" : "Object",
 	"type" : "normal" }
