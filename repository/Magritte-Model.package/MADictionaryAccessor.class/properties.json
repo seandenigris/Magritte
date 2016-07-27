@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "lr 4/10/2007 21:07",
 	"instvars" : [
 		"key" ],
 	"name" : "MADictionaryAccessor",
