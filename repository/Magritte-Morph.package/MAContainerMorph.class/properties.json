@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"children",
-		"answer" ],
+		"answerBlock" ],
 	"name" : "MAContainerMorph",
 	"pools" : [
 		 ],
