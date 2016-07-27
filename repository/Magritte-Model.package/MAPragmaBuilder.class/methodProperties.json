@@ -1,11 +1,9 @@
 {
 	"class" : {
-		"containerExtensionPragma" : "EstebanLorenzano 1/4/2012 19:18",
 		"containerPragma" : "EstebanLorenzano 1/4/2012 15:21",
-		"defaultContainerClass" : "EstebanLorenzano 1/4/2012 15:28",
+		"descriptionExtensionPragma" : "NickAger 1/12/2012 17:36",
 		"descriptionPragma" : "EstebanLorenzano 1/4/2012 15:57" },
 	"instance" : {
 		"build:" : "EstebanLorenzano 1/4/2012 16:12",
-		"buildContainer:" : "EstebanLorenzano 1/4/2012 19:21",
-		"buildDescriptions:" : "EstebanLorenzano 1/4/2012 19:33",
-		"defaultContainer:" : "EstebanLorenzano 1/4/2012 16:14" } }
+		"buildContainer:" : "NickAger 1/12/2012 18:48",
+		"buildDescriptions:" : "NickAger 1/12/2012 18:13" } }
