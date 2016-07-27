@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"descriptionClasses" : "NickAger 1/16/2012 18:35",
 		"groupChoice" : "lr 10/29/2009 20:59",
 		"groupMagnitude" : "lr 10/29/2009 20:58",
 		"groupMisc" : "lr 10/29/2009 20:55",
@@ -7,6 +8,5 @@
 		"groupPick" : "lr 10/29/2009 20:56",
 		"groupText" : "lr 10/29/2009 20:56" },
 	"instance" : {
-		"descriptionClasses" : "NickAger 1/16/2012 17:24",
-		"descriptionValue" : "NickAger 1/16/2012 18:17",
-		"initialize" : "lr 8/14/2008 11:44" } }
+		"descriptionValue" : "NickAger 1/16/2012 18:36",
+		"initialize" : "NickAger 1/16/2012 18:36" } }
