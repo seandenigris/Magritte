@@ -1,7 +1,8 @@
 {
 	"category" : "Magritte-Pharo-Model",
 	"classinstvars" : [
-		"baseDirectory" ],
+		"baseDirectory",
+		"baseUrl" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
