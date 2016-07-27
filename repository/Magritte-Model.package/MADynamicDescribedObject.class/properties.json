@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "NickAger 1/18/2012 13:59",
+	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "MADynamicDescriptionCache",
+	"name" : "MADynamicDescribedObject",
 	"pools" : [
 		 ],
 	"super" : "MADynamicVariable",
