@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
+		"magritteEvaluate:onUnhandledErrorDo:" : "jf 9/16/2009 11:34",
+		"magritteRegister:forMethodChangeNotificationsUsing:" : "jf 9/15/2009 18:16",
 		"magritteUnregister:forMethodChangeNotificationsUsing:" : "jf 9/15/2009 18:15" } }
