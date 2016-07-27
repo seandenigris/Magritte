@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MASelectListRowsComponent",
+	"pools" : [
+		 ],
+	"super" : "MASelectListComponent",
+	"type" : "normal" }
