@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"defaultDistinct" : "lr 3/9/2006 11:33",
+		"defaultKind" : "lr 9/3/2009 17:23",
+		"defaultOrdered" : "lr 3/9/2006 11:33",
+		"descriptionDistinct" : "EstebanLorenzano 1/4/2012 15:37",
+		"descriptionOrdered" : "EstebanLorenzano 1/4/2012 15:40",
+		"isAbstract" : "lr 3/9/2006 11:33",
+		"label" : "lr 3/9/2006 11:33" },
+	"instance" : {
+		"acceptMagritte:" : "lr 3/9/2006 11:32",
+		"beDistinct" : "lr 3/9/2006 11:32",
+		"beIndefinite" : "lr 3/9/2006 11:32",
+		"beOrdered" : "lr 3/9/2006 11:32",
+		"beUnordered" : "lr 3/9/2006 11:32",
+		"distinct" : "lr 3/9/2006 11:32",
+		"distinct:" : "lr 3/9/2006 11:32",
+		"isDistinct" : "lr 3/9/2006 11:32",
+		"isOrdered" : "lr 3/9/2006 11:32",
+		"ordered" : "lr 3/9/2006 11:32",
+		"ordered:" : "lr 3/9/2006 11:32",
+		"validateKind:" : "lr 11/14/2006 17:59",
+		"validateRequired:" : "lr 2/16/2007 08:49" } }

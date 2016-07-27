@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"new" : "jf 9/24/2009 13:08",
+		"on:" : "lr 3/9/2006 11:33" },
+	"instance" : {
+		"copy" : "lr 5/17/2006 15:30",
+		"doesNotUnderstand:" : "lr 3/9/2006 11:32",
+		"isNil" : "lr 4/10/2007 21:42",
+		"printOn:" : "lr 4/10/2007 21:42",
+		"printString" : "lr 3/9/2006 11:32",
+		"realSubject" : "lr 3/9/2006 11:32",
+		"realSubject:" : "lr 3/9/2006 11:32" } }

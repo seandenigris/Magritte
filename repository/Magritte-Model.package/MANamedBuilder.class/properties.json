@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Model-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 4/10/2007 21:09",
+	"instvars" : [
+		 ],
+	"name" : "MANamedBuilder",
+	"pools" : [
+		 ],
+	"super" : "MADescriptionBuilder",
+	"type" : "normal" }

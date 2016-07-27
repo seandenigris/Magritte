@@ -1,0 +1,16 @@
+{
+	"category" : "Magritte-Model-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 4/10/2007 21:10",
+	"instvars" : [
+		"rowCount",
+		"columnCount",
+		"contents" ],
+	"name" : "MATableModel",
+	"pools" : [
+		 ],
+	"super" : "MABasicObject",
+	"type" : "normal" }

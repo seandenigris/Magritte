@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"object" ],
+	"name" : "MAStreamingVisitor",
+	"pools" : [
+		 ],
+	"super" : "MAVisitor",
+	"type" : "normal" }

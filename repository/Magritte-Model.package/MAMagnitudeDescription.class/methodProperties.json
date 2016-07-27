@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"defaultMax" : "lr 3/9/2006 11:33",
+		"defaultMin" : "lr 3/9/2006 11:33",
+		"descriptionMax" : "EstebanLorenzano 1/4/2012 15:39",
+		"descriptionMin" : "EstebanLorenzano 1/4/2012 15:39" },
+	"instance" : {
+		"acceptMagritte:" : "lr 3/9/2006 11:32",
+		"isSortable" : "lr 8/18/2007 10:47",
+		"isWithinRange:" : "lr 3/9/2006 11:32",
+		"max" : "lr 3/9/2006 11:32",
+		"max:" : "lr 3/25/2009 19:31",
+		"min" : "lr 3/9/2006 11:32",
+		"min:" : "lr 3/25/2009 19:31",
+		"min:max:" : "lr 4/10/2007 21:40",
+		"rangeErrorMessage" : "lr 7/25/2008 17:46",
+		"rangeErrorMessage:" : "lr 3/25/2009 19:31",
+		"validateSpecific:" : "lr 9/12/2007 17:27" } }

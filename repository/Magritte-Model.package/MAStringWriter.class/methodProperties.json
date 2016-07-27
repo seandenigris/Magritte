@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultWriteStream" : "lr 5/21/2009 13:24",
+		"visitBooleanDescription:" : "lr 3/9/2006 11:32",
+		"visitClassDescription:" : "lr 3/9/2006 11:32",
+		"visitColorDescription:" : "lr 3/9/2006 11:32",
+		"visitContainer:" : "lr 3/9/2006 11:32",
+		"visitDateAndTimeDescription:" : "pmm 8/31/2009 20:18",
+		"visitElementDescription:" : "jf 9/30/2009 01:10",
+		"visitFileDescription:" : "lr 3/9/2006 11:32",
+		"visitMultipleOptionDescription:" : "lr 5/21/2009 13:23",
+		"visitSingleOptionDescription:" : "lr 5/21/2009 13:21",
+		"visitTimeDescription:" : "jf 9/30/2009 01:10",
+		"visitTimeStampDescription:" : "jf 9/18/2009 10:47",
+		"visitToManyRelationDescription:" : "lr 3/9/2006 11:32",
+		"visitToOneRelationDescription:" : "lr 3/9/2006 11:32",
+		"visitTokenDescription:" : "lr 2/5/2009 10:48",
+		"write:description:to:" : "lr 5/21/2009 13:25" } }

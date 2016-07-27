@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-Model-Accessor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 6/2/2006 10:03",
+	"instvars" : [
+		"readSelector",
+		"writeSelector" ],
+	"name" : "MASelectorAccessor",
+	"pools" : [
+		 ],
+	"super" : "MAAccessor",
+	"type" : "normal" }

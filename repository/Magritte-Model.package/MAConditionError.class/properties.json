@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Model-Exception",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/30/2006 23:33",
+	"instvars" : [
+		 ],
+	"name" : "MAConditionError",
+	"pools" : [
+		 ],
+	"super" : "MAValidationError",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"defaultColumnLabels" : "lr 3/9/2006 11:33",
+		"defaultKind" : "lr 9/3/2009 17:23",
+		"defaultRowLabels" : "lr 3/9/2006 11:33",
+		"descriptionColumnLabels" : "EstebanLorenzano 1/4/2012 15:35",
+		"descriptionDefault" : "EstebanLorenzano 1/4/2012 15:45",
+		"descriptionRequired" : "lr 3/9/2006 11:33",
+		"descriptionRowLabels" : "EstebanLorenzano 1/4/2012 15:41",
+		"isAbstract" : "lr 3/9/2006 11:33",
+		"label" : "lr 3/9/2006 11:33" },
+	"instance" : {
+		"acceptMagritte:" : "lr 3/9/2006 11:32",
+		"columnCount" : "lr 3/9/2006 11:32",
+		"columnLabels" : "lr 3/9/2006 11:32",
+		"columnLabels:" : "lr 3/9/2006 11:32",
+		"columnLabelsTextual" : "lr 3/9/2006 11:32",
+		"columnLabelsTextual:" : "lr 3/9/2006 11:32",
+		"rowCount" : "lr 3/9/2006 11:32",
+		"rowLabels" : "lr 3/9/2006 11:32",
+		"rowLabels:" : "lr 3/9/2006 11:32",
+		"rowLabelsTextual" : "lr 3/9/2006 11:32",
+		"rowLabelsTextual:" : "lr 3/9/2006 11:32",
+		"validateSpecific:" : "lr 10/12/2010 13:18" } }

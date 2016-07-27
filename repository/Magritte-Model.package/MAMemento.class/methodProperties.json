@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"model:" : "lr 3/9/2006 11:33",
+		"model:description:" : "lr 3/9/2006 11:33" },
+	"instance" : {
+		"commit" : "lr 3/9/2006 11:32",
+		"description" : "lr 3/9/2006 11:32",
+		"isDifferent:to:" : "lr 5/14/2008 20:27",
+		"model" : "lr 3/9/2006 11:32",
+		"printOn:" : "lr 3/9/2006 11:32",
+		"pull" : "lr 2/8/2009 19:20",
+		"pullRaw" : "lr 5/14/2008 20:22",
+		"push:" : "lr 2/8/2009 19:20",
+		"reset" : "lr 3/9/2006 11:32",
+		"setDescription:" : "lr 3/9/2006 11:32",
+		"setModel:" : "lr 3/9/2006 11:32",
+		"validate" : "lr 5/29/2006 09:23" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Model-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cache" ],
+	"name" : "MADescriptionBuilder",
+	"pools" : [
+		 ],
+	"super" : "MABasicObject",
+	"type" : "normal" }
