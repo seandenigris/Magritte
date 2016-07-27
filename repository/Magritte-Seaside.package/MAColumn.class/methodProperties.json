@@ -1,7 +1,5 @@
 {
 	"class" : {
-		"descriptionComment" : "NickAger 1/16/2012 15:42",
-		"descriptionTitle" : "NickAger 1/16/2012 15:42",
 		"isAbstract" : "lr 4/6/2009 13:20" },
 	"instance" : {
 		"accessor" : "lr 4/6/2009 13:13",
@@ -18,6 +16,8 @@
 		"defaultRenderer" : "lr 4/13/2009 12:58",
 		"defaultSorter" : "lr 4/13/2009 15:43",
 		"defaultVisible" : "lr 3/9/2006 11:33",
+		"descriptionComment" : "NickAger 1/16/2012 17:20",
+		"descriptionTitle" : "NickAger 1/16/2012 17:20",
 		"exportContent:index:on:" : "lr 4/13/2009 16:00",
 		"exportHeadOn:" : "lr 4/13/2009 13:01",
 		"filter" : "lr 4/6/2009 19:58",
