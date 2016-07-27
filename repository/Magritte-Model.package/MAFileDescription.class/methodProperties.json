@@ -1,7 +1,10 @@
 {
 	"class" : {
+		"defaultDisplayProperty" : "SeanDeNigris 11/21/2013 22:08",
 		"defaultKind" : "lr 9/3/2009 17:32",
 		"isAbstract" : "lr 3/9/2006 11:33",
 		"label" : "lr 3/9/2006 11:33" },
 	"instance" : {
-		"acceptMagritte:" : "lr 3/9/2006 11:32" } }
+		"acceptMagritte:" : "lr 3/9/2006 11:32",
+		"defaultDirectory" : "SeanDeNigris 9/29/2013 10:28",
+		"defaultDirectory:" : "SeanDeNigris 9/29/2013 10:57" } }
