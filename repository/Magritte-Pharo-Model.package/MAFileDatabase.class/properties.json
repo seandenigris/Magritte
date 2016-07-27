@@ -7,10 +7,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"location",
-		"directory" ],
-	"name" : "MAExternalFileModel",
+		 ],
+	"name" : "MAFileDatabase",
 	"pools" : [
 		 ],
-	"super" : "MAFileModel",
+	"super" : "Object",
 	"type" : "normal" }
