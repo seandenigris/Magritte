@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-Model-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"table" ],
+	"name" : "MATableModelTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

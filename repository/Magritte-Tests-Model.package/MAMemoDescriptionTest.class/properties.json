@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-Model-Description",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MAMemoDescriptionTest",
+	"pools" : [
+		 ],
+	"super" : "MAStringDescriptionTest",
+	"type" : "normal" }

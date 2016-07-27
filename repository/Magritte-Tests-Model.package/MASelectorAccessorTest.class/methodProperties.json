@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:35" },
+	"instance" : {
+		"accessorInstance" : "lr 3/9/2006 11:35",
+		"actualClass" : "lr 3/9/2006 11:35",
+		"testAsAccessor" : "lr 4/10/2008 13:38",
+		"testCanRead" : "lr 2/14/2008 09:50",
+		"testCanWrite" : "lr 2/14/2008 09:50",
+		"testRead" : "lr 2/14/2008 09:51",
+		"testReadSelector" : "lr 3/9/2006 11:35",
+		"testSelector" : "lr 3/9/2006 11:35",
+		"testWrite" : "lr 2/14/2008 09:51",
+		"testWriteSelector" : "lr 3/9/2006 11:35" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-Model-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MADescriptionBuilderTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

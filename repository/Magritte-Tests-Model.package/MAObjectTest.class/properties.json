@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MAObjectTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

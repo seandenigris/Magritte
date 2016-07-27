@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:35" },
+	"instance" : {
+		"actualClass" : "lr 3/9/2006 11:35",
+		"includedInstance" : "lr 3/9/2006 11:35",
+		"testAllOptionsOptional" : "lr 3/9/2006 11:35",
+		"testAllOptionsWithExtensible" : "lr 5/5/2006 19:37",
+		"testAllOptionsWithOptional" : "lr 5/5/2006 19:26",
+		"testExtensible" : "lr 3/9/2006 11:35",
+		"testGroupBy" : "mb 4/10/2008 00:46",
+		"testGroupOf" : "mb 4/10/2008 01:21",
+		"testOptionsAndLabelsFromString" : "lr 5/21/2009 13:43",
+		"testOptionsAndLabelsToString" : "lr 5/21/2009 13:43",
+		"testValidationExtensible" : "lr 10/12/2010 13:03" } }

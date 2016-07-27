@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-Model-Description",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MAPriorityContainerTest",
+	"pools" : [
+		 ],
+	"super" : "MAContainerTest",
+	"type" : "normal" }

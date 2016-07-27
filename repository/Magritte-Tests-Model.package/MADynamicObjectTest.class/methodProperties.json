@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCalculated" : "jf 9/17/2009 15:42",
+		"testCollection" : "jf 9/17/2009 15:42",
+		"testConstant" : "jf 9/17/2009 15:43",
+		"testCopy" : "jf 9/17/2009 15:42",
+		"testCounter" : "jf 9/17/2009 15:42",
+		"testDynamic" : "jf 9/17/2009 15:42",
+		"testException" : "jf 9/30/2009 01:10",
+		"testNilOrNotNil" : "jf 9/17/2009 15:43" } }

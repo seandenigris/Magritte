@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-Model-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "MAFileModelTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

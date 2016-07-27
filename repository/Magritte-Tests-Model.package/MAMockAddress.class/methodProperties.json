@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"descriptionNilled1" : "EstebanLorenzano 1/4/2012 19:26",
+		"descriptionNilled1:" : "lr 8/23/2008 12:04",
+		"descriptionNilled2" : "EstebanLorenzano 1/4/2012 15:43",
+		"descriptionNilled2:" : "lr 8/23/2008 12:03",
+		"descriptionPlace" : "EstebanLorenzano 1/4/2012 15:40",
+		"descriptionPlace:" : "lr 8/23/2008 11:57",
+		"descriptionPlaceOther:" : "lr 8/23/2008 12:04",
+		"descriptionPlz" : "EstebanLorenzano 1/4/2012 15:40",
+		"descriptionStreet" : "EstebanLorenzano 1/4/2012 15:41" },
+	"instance" : {
+		"=" : "lr 2/16/2007 08:50",
+		"hash" : "lr 3/9/2006 11:34",
+		"place" : "lr 3/9/2006 11:34",
+		"place:" : "lr 3/9/2006 11:34",
+		"plz" : "lr 3/9/2006 11:34",
+		"plz:" : "lr 3/9/2006 11:34",
+		"street" : "lr 3/9/2006 11:34",
+		"street:" : "lr 3/9/2006 11:34" } }

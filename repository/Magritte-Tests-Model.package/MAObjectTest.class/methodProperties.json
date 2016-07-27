@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"buildTestClassFor:" : "jf 9/30/2009 01:10",
+		"isAbstract" : "lr 3/9/2006 11:35",
+		"packageNamesUnderTest" : "lr 4/12/2009 00:28",
+		"shouldInheritSelectors" : "lr 3/9/2006 11:35" },
+	"instance" : {
+		"actualClass" : "lr 3/9/2006 11:34",
+		"instance" : "lr 4/5/2007 17:12",
+		"testCopy" : "lr 3/9/2006 11:34",
+		"testCopyProperties" : "lr 5/14/2008 20:32",
+		"testEqual" : "lr 3/9/2006 11:34",
+		"testHash" : "lr 3/9/2006 11:34",
+		"testIsDescription" : "lr 10/28/2007 10:18",
+		"testProperties" : "lr 3/9/2006 11:34",
+		"testPropertiesAt" : "lr 3/5/2007 13:52",
+		"testPropertiesAtIfAbsent" : "lr 3/9/2006 11:34",
+		"testPropertiesAtIfAbsentPut" : "lr 3/9/2006 11:34",
+		"testPropertiesAtIfPresent" : "lr 4/10/2008 13:56",
+		"testPropertiesAtPut" : "lr 3/9/2006 11:34",
+		"testPropertiesHas" : "lr 3/9/2006 11:34",
+		"testSanity" : "lr 3/9/2006 11:34" } }

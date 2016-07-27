@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-Tests-Model-Accessor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accessor",
+		"value" ],
+	"name" : "MAAccessorTest",
+	"pools" : [
+		 ],
+	"super" : "MAObjectTest",
+	"type" : "normal" }
