@@ -1,21 +1,21 @@
 {
 	"class" : {
-		"description:" : "lr 3/9/2006 11:34" },
+		"description:" : "NickAger 1/17/2012 14:33" },
 	"instance" : {
 		"buildEditorFor:titled:" : "lr 3/9/2006 11:33",
 		"buildReport" : "lr 3/9/2006 11:33",
 		"cancel" : "lr 3/9/2006 11:33",
 		"children" : "lr 3/9/2006 11:33",
 		"defaultDescription" : "lr 3/9/2006 11:33",
-		"description" : "lr 3/9/2006 11:33",
-		"description:" : "lr 3/9/2006 11:33",
 		"edit" : "jf 9/17/2009 13:42",
-		"moveDown:" : "lr 11/20/2007 08:53",
-		"moveUp:" : "lr 11/20/2007 08:53",
+		"magritteDescription" : "NickAger 1/17/2012 14:32",
+		"magritteDescription:" : "NickAger 1/17/2012 14:32",
+		"moveDown:" : "NickAger 1/17/2012 14:33",
+		"moveUp:" : "NickAger 1/17/2012 14:33",
 		"preview" : "lr 3/9/2006 11:33",
-		"refresh" : "lr 11/20/2007 08:54",
+		"refresh" : "NickAger 1/17/2012 14:33",
 		"renderButtonsOn:" : "lr 11/16/2006 18:16",
 		"renderChildrenOn:" : "lr 3/9/2006 11:33",
 		"renderContentOn:" : "mb 4/10/2008 07:14",
 		"report" : "lr 3/9/2006 11:33",
-		"save" : "lr 3/9/2006 11:33" } }
+		"save" : "NickAger 1/17/2012 14:34" } }
