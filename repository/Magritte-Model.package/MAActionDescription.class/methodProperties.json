@@ -4,6 +4,10 @@
 	"instance" : {
 		"comment:" : "SeanDeNigris 10/8/2013 18:31",
 		"enableOn:" : "SeanDeNigris 10/6/2013 20:03",
+		"initialize" : "SeanDeNigris 11/21/2013 18:15",
 		"isEnabled" : "SeanDeNigris 10/6/2013 19:59",
+		"label" : "SeanDeNigris 11/21/2013 18:13",
+		"label:" : "SeanDeNigris 11/21/2013 18:12",
 		"perform" : "SeanDeNigris 10/6/2013 17:38",
+		"priority:" : "SeanDeNigris 11/21/2013 18:11",
 		"selector:" : "SeanDeNigris 10/6/2013 17:35" } }
