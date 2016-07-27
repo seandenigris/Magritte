@@ -5,10 +5,9 @@
 		"baseUrl" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "lr 9/28/2007 08:11",
 	"instvars" : [
-		"location",
-		"directory" ],
+		"location" ],
 	"name" : "MAExternalFileModel",
 	"pools" : [
 		 ],
