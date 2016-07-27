@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"addMorphFor:of:to:" : "SeanDeNigris 6/11/2013 01:28",
+		"for:of:" : "SeanDeNigris 6/11/2013 01:27" },
+	"instance" : {
+		"buildButton:" : "SeanDeNigris 6/11/2013 00:27",
+		"buildCommands" : "SeanDeNigris 6/11/2013 00:56",
+		"cellInset" : "SeanDeNigris 6/11/2013 00:02",
+		"container:" : "SeanDeNigris 6/11/2013 00:55",
+		"edit" : "SeanDeNigris 6/11/2013 01:16",
+		"initialize" : "SeanDeNigris 6/11/2013 01:05",
+		"object:" : "SeanDeNigris 6/11/2013 00:25",
+		"rectangleMorph" : "SeanDeNigris 6/11/2013 00:04",
+		"remove" : "SeanDeNigris 6/11/2013 01:17",
+		"summary:" : "SeanDeNigris 6/11/2013 01:16",
+		"value" : "SeanDeNigris 6/11/2013 00:40",
+		"value:" : "SeanDeNigris 6/11/2013 00:40" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-Morph-Report",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object",
+		"container" ],
+	"name" : "MAElementRow",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }
