@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"magritteAllSubInstancesOf:do:" : "jf 9/16/2009 13:39",
+		"magritteClassNamed:" : "jf 9/16/2009 13:32",
+		"magritteColorClass" : "jf 9/15/2009 18:43",
+		"magritteEvaluate:onUnhandledErrorDo:" : "jf 9/16/2009 11:34",
+		"magritteEvaluatorClassFor:" : "jf 9/17/2009 17:10",
+		"magritteRegister:forMethodChangeNotificationsUsing:" : "jf 9/15/2009 18:16",
+		"magritteTimeStampClass" : "jf 9/16/2009 14:27",
+		"magritteTimeStampIfAbsent:" : "jf 9/16/2009 14:01",
+		"magritteUniqueObject" : "lr 1/11/2010 23:04",
+		"magritteUnregister:forMethodChangeNotificationsUsing:" : "jf 9/15/2009 18:15" } }
