@@ -11,5 +11,5 @@
 	"name" : "MAElementRow",
 	"pools" : [
 		 ],
-	"super" : "BorderedMorph",
+	"super" : "Morph",
 	"type" : "normal" }
