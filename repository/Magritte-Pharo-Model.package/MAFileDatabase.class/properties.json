@@ -1,16 +1,14 @@
 {
 	"category" : "Magritte-Pharo-Model",
 	"classinstvars" : [
-		"baseDirectory",
-		"baseUrl" ],
+		"baseDirectory" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"location",
-		"directory" ],
-	"name" : "MAExternalFileModel",
+		 ],
+	"name" : "MAFileDatabase",
 	"pools" : [
 		 ],
-	"super" : "MAFileModel",
+	"super" : "Object",
 	"type" : "normal" }
