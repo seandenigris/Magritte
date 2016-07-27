@@ -7,7 +7,7 @@
 	"commentStamp" : "lr 5/17/2006 15:02",
 	"instvars" : [
 		 ],
-	"name" : "MAStraightMemento",
+	"name" : "MAStraitMemento",
 	"pools" : [
 		 ],
 	"super" : "MAMemento",

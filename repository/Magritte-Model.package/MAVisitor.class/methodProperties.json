@@ -1,10 +1,9 @@
 {
 	"class" : {
-		"buildVisitorHierarchyForClass:selector:classified:" : "SeanDeNigris 4/10/2015 20:23" },
+		"buildVisitorHierarchyForClass:selector:classified:" : "lr 3/9/2006 11:33" },
 	"instance" : {
 		"visit:" : "lr 4/10/2007 21:43",
 		"visitAll:" : "lr 4/10/2007 21:43",
-		"visitBlockDescription:" : "SeanDeNigris 3/26/2015 12:22",
 		"visitBooleanDescription:" : "lr 3/9/2006 11:32",
 		"visitClassDescription:" : "lr 3/9/2006 11:32",
 		"visitColorDescription:" : "lr 3/9/2006 11:32",
@@ -12,7 +11,6 @@
 		"visitDateAndTimeDescription:" : "pmm 8/31/2009 20:08",
 		"visitDateDescription:" : "lr 3/9/2006 11:32",
 		"visitDescription:" : "lr 3/9/2006 11:32",
-		"visitDirectoryDescription:" : "SeanDeNigris 4/10/2015 20:17",
 		"visitDurationDescription:" : "lr 3/9/2006 11:32",
 		"visitElementDescription:" : "lr 3/9/2006 11:32",
 		"visitFileDescription:" : "lr 3/9/2006 11:32",
