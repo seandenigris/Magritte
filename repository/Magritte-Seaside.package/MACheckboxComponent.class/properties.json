@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MACheckboxComponent",
+	"pools" : [
+		 ],
+	"super" : "MAElementComponent",
+	"type" : "normal" }

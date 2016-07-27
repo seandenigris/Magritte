@@ -1,0 +1,16 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"children",
+		"readonly",
+		"errors" ],
+	"name" : "MAContainerComponent",
+	"pools" : [
+		 ],
+	"super" : "MADescriptionComponent",
+	"type" : "normal" }

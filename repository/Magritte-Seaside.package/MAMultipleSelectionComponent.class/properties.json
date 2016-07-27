@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MAMultipleSelectionComponent",
+	"pools" : [
+		 ],
+	"super" : "MAOptionComponent",
+	"type" : "normal" }

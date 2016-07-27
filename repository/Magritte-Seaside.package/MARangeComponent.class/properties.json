@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MARangeComponent",
+	"pools" : [
+		 ],
+	"super" : "MAElementComponent",
+	"type" : "normal" }

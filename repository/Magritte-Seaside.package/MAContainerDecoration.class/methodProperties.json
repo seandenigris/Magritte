@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buttons" : "lr 8/19/2008 22:25",
+		"default" : "lr 4/5/2007 17:12",
+		"execute:" : "jf 10/1/2009 11:46",
+		"renderButtonsOn:" : "lr 8/19/2008 22:24",
+		"renderContentOn:" : "lr 3/9/2010 19:15",
+		"requiresMultipartForm" : "lr 3/9/2010 19:23" } }

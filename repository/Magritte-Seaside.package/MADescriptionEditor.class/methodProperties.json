@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"initialize" : "jf 9/15/2009 16:02" },
+	"instance" : {
+		"addDescription:" : "lr 1/29/2010 08:44",
+		"appendDescription:" : "lr 1/29/2010 08:42",
+		"buildReport" : "trs 9/28/2009 19:08",
+		"children" : "mb 4/10/2008 01:52",
+		"defaultDescription" : "lr 3/9/2006 11:33",
+		"defaultDescriptionClasses" : "lr 3/9/2006 11:33",
+		"defaultExampleInstance" : "lr 11/20/2007 08:51",
+		"editDescription:" : "jf 9/17/2009 15:15",
+		"example" : "lr 11/20/2007 08:49",
+		"initialize" : "mb 4/10/2008 01:50",
+		"preview" : "jf 9/17/2009 13:41",
+		"removeDescription:" : "lr 11/20/2007 08:53",
+		"renderButtonsOn:" : "lr 8/14/2008 00:22" } }

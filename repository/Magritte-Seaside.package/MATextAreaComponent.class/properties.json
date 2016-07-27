@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 2/3/2007 23:12",
+	"instvars" : [
+		 ],
+	"name" : "MATextAreaComponent",
+	"pools" : [
+		 ],
+	"super" : "MAElementComponent",
+	"type" : "normal" }

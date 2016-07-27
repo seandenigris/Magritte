@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:34" },
+	"instance" : {
+		"hasLabelId" : "lr 3/9/2010 19:20",
+		"remove" : "lr 6/17/2010 09:41",
+		"renderEditorOn:" : "lr 3/9/2010 19:14",
+		"renderRemoveOn:" : "lr 3/26/2009 21:43",
+		"renderUploadOn:" : "lr 1/10/2008 16:02",
+		"renderViewerOn:" : "lr 1/26/2007 18:50",
+		"requiresMultipartForm" : "lr 3/9/2010 19:21",
+		"upload:" : "lr 10/12/2010 13:59" } }

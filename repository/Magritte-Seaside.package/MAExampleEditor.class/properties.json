@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-Seaside-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"description",
+		"report" ],
+	"name" : "MAExampleEditor",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

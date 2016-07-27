@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"component" ],
+	"name" : "MAInternalEditorComponent",
+	"pools" : [
+		 ],
+	"super" : "MAOneToOneComponent",
+	"type" : "normal" }

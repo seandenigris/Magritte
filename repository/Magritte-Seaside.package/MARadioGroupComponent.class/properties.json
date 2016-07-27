@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MARadioGroupComponent",
+	"pools" : [
+		 ],
+	"super" : "MASingleSelectionComponent",
+	"type" : "normal" }

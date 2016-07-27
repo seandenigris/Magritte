@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"defaultErrorClass" : "jf 9/16/2009 14:04",
+		"on:" : "lr 4/19/2009 22:46" },
+	"instance" : {
+		"=" : "lr 4/19/2009 22:47",
+		"handleFiltered:" : "lr 3/29/2010 10:27",
+		"hash" : "lr 4/19/2009 22:47",
+		"initializeOn:" : "lr 4/19/2009 22:46",
+		"model" : "lr 4/19/2009 22:48" } }

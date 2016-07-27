@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MATimeSelectorComponent",
+	"pools" : [
+		 ],
+	"super" : "MATimeInputComponent",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"verificationValue" ],
+	"name" : "MAVerifiedPasswordComponent",
+	"pools" : [
+		 ],
+	"super" : "MATextPasswordComponent",
+	"type" : "normal" }

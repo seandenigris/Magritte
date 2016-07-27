@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Seaside-Renderer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MACssRenderer",
+	"pools" : [
+		 ],
+	"super" : "MAComponentRenderer",
+	"type" : "normal" }

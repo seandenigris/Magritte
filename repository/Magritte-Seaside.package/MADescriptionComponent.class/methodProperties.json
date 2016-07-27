@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"memento:" : "lr 3/9/2006 11:34",
+		"memento:description:" : "lr 3/9/2006 11:34",
+		"memento:description:parent:" : "lr 3/9/2006 11:34" },
+	"instance" : {
+		"attributes" : "jf 9/30/2009 01:02",
+		"description" : "lr 3/9/2006 11:33",
+		"doValidateTo:" : "lr 11/6/2009 15:19",
+		"id" : "jf 9/30/2009 01:10",
+		"isReadonly" : "lr 3/9/2006 11:33",
+		"isRoot" : "lr 3/9/2006 11:33",
+		"labelId" : "lr 9/12/2007 17:26",
+		"memento" : "lr 3/9/2006 11:33",
+		"model" : "lr 3/9/2006 11:33",
+		"onValidationError:addTo:" : "lr 11/6/2009 15:36",
+		"parent" : "lr 3/9/2006 11:33",
+		"root" : "lr 3/9/2006 11:33",
+		"setDescription:" : "lr 3/9/2006 11:33",
+		"setMemento:" : "lr 3/9/2006 11:33",
+		"setParent:" : "lr 3/9/2006 11:33" } }
