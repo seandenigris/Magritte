@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Morph-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 3/26/2015 16:41",
+	"instvars" : [
+		"builder" ],
+	"name" : "MAMorphicVisitor",
+	"pools" : [
+		 ],
+	"super" : "MAVisitor",
+	"type" : "normal" }
