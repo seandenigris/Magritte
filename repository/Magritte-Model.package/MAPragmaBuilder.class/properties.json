@@ -10,5 +10,5 @@
 	"name" : "MAPragmaBuilder",
 	"pools" : [
 		 ],
-	"super" : "MADescriptionBuilder",
+	"super" : "MABasicObject",
 	"type" : "normal" }

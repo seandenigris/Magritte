@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "lr 4/10/2007 21:09",
+	"commentStamp" : "NickAger 1/18/2012 13:59",
 	"instvars" : [
 		 ],
-	"name" : "MANamedBuilder",
+	"name" : "MADynamicDescriptionCache",
 	"pools" : [
 		 ],
-	"super" : "MADescriptionBuilder",
+	"super" : "GRNotification",
 	"type" : "normal" }

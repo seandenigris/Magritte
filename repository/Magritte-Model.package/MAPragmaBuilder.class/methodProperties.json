@@ -1,12 +1,14 @@
 {
 	"class" : {
-		"containerPragma" : "EstebanLorenzano 1/4/2012 15:21",
-		"magritteDescriptionExtensionPragma" : "NickAger 1/16/2012 17:24",
-		"magritteDescriptionPragma" : "NickAger 1/16/2012 17:25",
+		"containerPragma" : "NickAger 1/18/2012 14:02",
+		"for:" : "NickAger 1/18/2012 14:42",
+		"magritteDescriptionExtensionPragma" : "NickAger 1/18/2012 14:02",
+		"magritteDescriptionPragma" : "NickAger 1/18/2012 14:02",
 		"magritteSelectors" : "NickAger 1/16/2012 17:26" },
 	"instance" : {
-		"build:" : "EstebanLorenzano 1/4/2012 16:12",
-		"buildContainer:" : "NickAger 1/12/2012 18:48",
+		"build:cache:" : "NickAger 1/18/2012 14:25",
+		"buildContainer:" : "NickAger 1/18/2012 13:57",
 		"buildDescriptions:" : "NickAger 1/12/2012 20:16",
 		"descriptionExtensions:" : "NickAger 1/16/2012 17:25",
+		"for:" : "NickAger 1/18/2012 14:04",
 		"uniqueDescriptionSelectors:" : "NickAger 1/16/2012 17:26" } }

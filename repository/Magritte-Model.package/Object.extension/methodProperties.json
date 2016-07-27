@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"description" : "NickAger 1/17/2012 16:08",
-		"magritteDescription" : "NickAger 1/17/2012 16:09" },
+		"description" : "NickAger 1/18/2012 14:24",
+		"magritteDescription" : "NickAger 1/18/2012 14:49" },
 	"instance" : {
-		"description" : "NickAger 1/17/2012 14:49",
+		"description" : "NickAger 1/18/2012 14:24",
 		"descriptionContainer" : "NickAger 1/17/2012 13:35",
-		"initializeMagritte" : "lr 9/23/2008 08:15",
+		"initializeMagritte" : "NickAger 1/18/2012 15:08",
 		"isDescription" : "lr 3/9/2006 11:31",
-		"magritteDescription" : "NickAger 1/16/2012 17:31",
+		"magritteDescription" : "NickAger 1/18/2012 14:42",
 		"mementoClass" : "lr 3/9/2006 11:31",
 		"readUsing:" : "lr 3/9/2006 11:31",
 		"write:using:" : "lr 3/9/2006 11:31" } }
