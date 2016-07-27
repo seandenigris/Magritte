@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Model-Description",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pmm 8/31/2009 20:11",
+	"instvars" : [
+		 ],
+	"name" : "MADateAndTimeDescription",
+	"pools" : [
+		 ],
+	"super" : "MAMagnitudeDescription",
+	"type" : "normal" }

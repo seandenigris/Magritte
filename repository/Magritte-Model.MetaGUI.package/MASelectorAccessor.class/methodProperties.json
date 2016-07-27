@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:33",
+		"read:write:" : "lr 3/9/2006 11:33",
+		"selector:" : "lr 3/9/2006 11:33" },
+	"instance" : {
+		"=" : "lr 2/16/2007 08:49",
+		"canRead:" : "lr 5/6/2008 17:51",
+		"canWrite:" : "lr 5/6/2008 17:51",
+		"hash" : "lr 3/9/2006 11:32",
+		"read:" : "lr 3/9/2006 11:32",
+		"readSelector" : "lr 3/9/2006 11:32",
+		"readSelector:" : "lr 3/9/2006 11:32",
+		"selector" : "lr 3/9/2006 11:32",
+		"selector:" : "jf 9/30/2009 01:10",
+		"storeOn:" : "lr 9/3/2009 17:15",
+		"write:to:" : "fbs 6/2/2011 17:59",
+		"writeSelector" : "lr 3/9/2006 11:32",
+		"writeSelector:" : "lr 3/9/2006 11:32" } }

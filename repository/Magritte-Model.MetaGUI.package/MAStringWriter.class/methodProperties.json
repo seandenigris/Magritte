@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultWriteStream" : "lr 5/21/2009 13:24",
+		"printObjectDescribedBy:" : "SeanDeNigris 10/6/2013 21:24",
+		"visitBooleanDescription:" : "lr 3/9/2006 11:32",
+		"visitClassDescription:" : "lr 3/9/2006 11:32",
+		"visitColorDescription:" : "lr 3/9/2006 11:32",
+		"visitContainer:" : "lr 3/9/2006 11:32",
+		"visitDateAndTimeDescription:" : "SeanDeNigris 10/6/2013 21:24",
+		"visitElementDescription:" : "jf 9/30/2009 01:10",
+		"visitFileDescription:" : "lr 3/9/2006 11:32",
+		"visitMultipleOptionDescription:" : "lr 5/21/2009 13:23",
+		"visitSingleOptionDescription:" : "lr 5/21/2009 13:21",
+		"visitStringDescription:" : "SeanDeNigris 10/6/2013 21:23",
+		"visitTimeDescription:" : "SeanDeNigris 10/6/2013 21:33",
+		"visitTimeStampDescription:" : "DamienCassou 11/21/2013 15:06",
+		"visitToManyRelationDescription:" : "NickAger 1/19/2012 17:02",
+		"visitToOneRelationDescription:" : "NickAger 1/19/2012 17:02",
+		"visitTokenDescription:" : "lr 2/5/2009 10:48",
+		"write:description:to:" : "lr 5/21/2009 13:25" } }

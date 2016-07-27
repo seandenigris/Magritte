@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"defaultFalseString" : "lr 3/9/2006 11:32",
+		"defaultFalseStrings" : "lr 3/9/2006 11:32",
+		"defaultKind" : "lr 9/3/2009 17:23",
+		"defaultTrueString" : "lr 3/9/2006 11:32",
+		"defaultTrueStrings" : "lr 3/9/2006 11:32",
+		"isAbstract" : "lr 3/9/2006 11:32",
+		"label" : "lr 3/9/2006 11:32" },
+	"instance" : {
+		"acceptMagritte:" : "StephanEggermont 4/16/2015 11:06",
+		"allOptions" : "lr 3/9/2006 11:31",
+		"allOptionsWith:" : "lr 3/9/2006 11:31",
+		"descriptionFalseString" : "NickAger 1/16/2012 18:13",
+		"descriptionRequired" : "NickAger 1/16/2012 17:27",
+		"descriptionTrueString" : "NickAger 1/16/2012 18:14",
+		"falseString" : "lr 3/9/2006 11:31",
+		"falseString:" : "lr 3/25/2009 19:30",
+		"falseStrings" : "lr 3/9/2006 11:31",
+		"isExtensible" : "lr 3/9/2006 11:31",
+		"labelForOption:" : "lr 4/21/2007 17:45",
+		"options" : "lr 3/9/2006 11:31",
+		"reference" : "lr 3/9/2006 11:31",
+		"trueString" : "lr 3/9/2006 11:31",
+		"trueString:" : "lr 3/25/2009 19:30",
+		"trueStrings" : "lr 3/9/2006 11:31" } }

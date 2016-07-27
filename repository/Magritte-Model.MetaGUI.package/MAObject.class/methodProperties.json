@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:33",
+		"new" : "jf 9/16/2009 12:27",
+		"withAllConcreteClasses" : "lr 3/9/2006 11:33",
+		"withAllConcreteClassesDo:" : "lr 3/9/2006 11:33" },
+	"instance" : {
+		"=" : "lr 4/10/2007 21:40",
+		"acceptMagritte:" : "lr 3/9/2006 11:32",
+		"errorPropertyNotFound:" : "lr 4/10/2008 14:11",
+		"hasProperty:" : "lr 4/10/2007 21:40",
+		"hash" : "lr 4/10/2007 21:40",
+		"postCopy" : "lr 5/29/2006 09:05",
+		"properties" : "lr 3/9/2006 11:32",
+		"propertyAt:" : "lr 4/10/2007 21:41",
+		"propertyAt:ifAbsent:" : "lr 4/10/2007 21:54",
+		"propertyAt:ifAbsentPut:" : "lr 4/10/2007 21:41",
+		"propertyAt:ifPresent:" : "lr 4/12/2007 19:49",
+		"propertyAt:ifPresent:ifAbsent:" : "NickAger 2/3/2012 13:37",
+		"propertyAt:put:" : "lr 4/10/2007 21:41" } }

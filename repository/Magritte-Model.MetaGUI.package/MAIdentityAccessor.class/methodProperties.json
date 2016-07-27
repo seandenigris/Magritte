@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:32" },
+	"instance" : {
+		"canRead:" : "lr 5/6/2008 17:50",
+		"read:" : "lr 3/9/2006 11:32",
+		"write:to:" : "jf 9/30/2009 01:10" } }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"defaultExtensible" : "lr 3/9/2006 11:33",
+		"isAbstract" : "lr 3/9/2006 11:33",
+		"label" : "lr 3/9/2006 11:33" },
+	"instance" : {
+		"acceptMagritte:" : "StephanEggermont 4/16/2015 11:06",
+		"beExtensible" : "lr 3/9/2006 11:32",
+		"beLimited" : "lr 3/9/2006 11:32",
+		"descriptionExtensible" : "NickAger 1/16/2012 18:20",
+		"descriptionGroupBy" : "NickAger 1/16/2012 17:27",
+		"extensible" : "lr 3/9/2006 11:32",
+		"extensible:" : "lr 3/9/2006 11:32",
+		"groupBy" : "lr 9/3/2008 11:43",
+		"groupBy:" : "lr 3/25/2009 19:31",
+		"isExtensible" : "lr 3/9/2006 11:32",
+		"isGrouped" : "mb 4/10/2008 00:37",
+		"prepareOptions:" : "lr 10/12/2010 13:09",
+		"shouldNotInclude:" : "lr 10/12/2010 13:09",
+		"validateKind:" : "lr 10/12/2010 13:08" } }

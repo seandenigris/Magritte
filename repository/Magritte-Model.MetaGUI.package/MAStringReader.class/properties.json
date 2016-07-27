@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 4/13/2015 07:57",
+	"instvars" : [
+		 ],
+	"name" : "MAStringReader",
+	"pools" : [
+		 ],
+	"super" : "MAReader",
+	"type" : "normal" }
