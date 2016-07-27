@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-GemStone-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DaleHenrichs 06/04/2010 16:51",
+	"instvars" : [
+		 ],
+	"name" : "MAExternalFileModelTest",
+	"pools" : [
+		 ],
+	"super" : "MAFileModelTest",
+	"type" : "normal" }
