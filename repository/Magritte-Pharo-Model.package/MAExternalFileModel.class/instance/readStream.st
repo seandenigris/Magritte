@@ -1,3 +1,3 @@
 accessing-dynamic
 readStream
-	^ (self directory readOnlyFileNamed: self filename) binary
+	^(FileStream oldFileNamed: self file fullName) binary

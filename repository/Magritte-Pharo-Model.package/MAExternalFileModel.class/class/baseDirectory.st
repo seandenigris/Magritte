@@ -1,3 +1,3 @@
 accessing
 baseDirectory
-	^ baseDirectory ifNil: [ FileDirectory default directoryNamed: 'files' ]
+	^ baseDirectory ifNil: [ (FileSystem disk resolveString: 'files') asFileReference ]

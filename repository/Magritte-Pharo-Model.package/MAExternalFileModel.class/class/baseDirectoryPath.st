@@ -1,3 +1,3 @@
 accessing
 baseDirectoryPath
-	^ self baseDirectory pathName
+	^ self baseDirectory fullName
