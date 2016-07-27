@@ -4,6 +4,11 @@
 	"instance" : {
 		"block" : "SeanDeNigris 6/17/2016 19:04",
 		"block:" : "SeanDeNigris 6/17/2016 18:50",
-		"includes:" : "SeanDeNigris 6/17/2016 19:21",
+		"detect:" : "SeanDeNigris 6/17/2016 22:23",
+		"includes:" : "SeanDeNigris 6/17/2016 22:32",
+		"includesBlock" : "SeanDeNigris 6/17/2016 22:33",
+		"includesBlock:" : "SeanDeNigris 6/17/2016 22:32",
 		"maAllOptionsFor:" : "SeanDeNigris 6/17/2016 19:03",
-		"maSelectMatching:" : "SeanDeNigris 6/17/2016 19:04" } }
+		"maSelectMatching:" : "SeanDeNigris 6/17/2016 19:04",
+		"reader" : "SeanDeNigris 6/17/2016 22:00",
+		"reader:" : "SeanDeNigris 6/17/2016 21:59" } }
