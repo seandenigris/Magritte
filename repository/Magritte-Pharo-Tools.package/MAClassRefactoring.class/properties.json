@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Pharo-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MAClassRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBClassRefactoring",
+	"type" : "normal" }
