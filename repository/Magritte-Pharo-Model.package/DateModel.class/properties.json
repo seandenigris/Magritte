@@ -1,0 +1,17 @@
+{
+	"category" : "Magritte-Pharo-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"dateLabel",
+		"chooseDateButton",
+		"dateModel",
+		"displayBlockHolder" ],
+	"name" : "DateModel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }
