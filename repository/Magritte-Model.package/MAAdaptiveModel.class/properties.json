@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "lr 6/2/2006 00:30",
 	"instvars" : [
-		"description",
+		"magritteDescription",
 		"values" ],
 	"name" : "MAAdaptiveModel",
 	"pools" : [
