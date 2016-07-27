@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"memento:" : "lr 3/9/2006 11:33",
+		"memento:" : "NickAger 1/19/2012 17:00",
 		"memento:description:" : "lr 3/9/2006 11:33",
 		"memento:description:parent:" : "lr 3/9/2006 11:33" },
 	"instance" : {
@@ -27,4 +27,4 @@
 		"setParent:" : "lr 3/9/2006 11:33",
 		"stringMorph" : "lr 3/9/2006 11:33",
 		"validate" : "lr 3/9/2006 11:33",
-		"windowMorph" : "lr 3/9/2006 11:33" } }
+		"windowMorph" : "NickAger 1/19/2012 17:00" } }
