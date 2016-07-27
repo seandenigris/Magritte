@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "SeanDeNigris 10/7/2015 13:46",
+		"entryCompletion" : "SeanDeNigris 10/7/2015 11:22",
+		"factory" : "SeanDeNigris 10/7/2015 13:47",
+		"factory:" : "SeanDeNigris 10/7/2015 13:45",
+		"initialize" : "SeanDeNigris 10/7/2015 14:56",
+		"objects" : "SeanDeNigris 10/7/2015 12:53",
+		"objects:" : "SeanDeNigris 10/7/2015 14:26",
+		"options" : "SeanDeNigris 10/7/2015 10:55",
+		"options:" : "SeanDeNigris 10/7/2015 10:55",
+		"refresh" : "SeanDeNigris 10/7/2015 16:19",
+		"stringDecoder" : "SeanDeNigris 10/7/2015 11:27",
+		"stringDecoder:" : "SeanDeNigris 10/7/2015 11:28",
+		"stringEncoder" : "SeanDeNigris 10/7/2015 11:29",
+		"stringEncoder:" : "SeanDeNigris 10/7/2015 11:30",
+		"textInput" : "SeanDeNigris 10/7/2015 15:05",
+		"tokenViewer" : "SeanDeNigris 10/7/2015 13:03",
+		"whenObjectsChanged:" : "SeanDeNigris 10/7/2015 12:55" } }
