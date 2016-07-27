@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addSelectListTo:" : "SeanDeNigris 6/8/2013 15:46",
+		"addSelectListTo:" : "SeanDeNigris 6/10/2013 22:00",
 		"buildClassChooser" : "SeanDeNigris 6/8/2013 15:48",
 		"buildMorph" : "SeanDeNigris 6/8/2013 14:35",
-		"buildMorphView" : "SeanDeNigris 6/8/2013 14:50",
+		"buildMorphViewOn:" : "SeanDeNigris 6/10/2013 22:00",
 		"buildSelectButton" : "SeanDeNigris 6/8/2013 15:23",
 		"classes" : "SeanDeNigris 6/8/2013 15:02",
+		"selected" : "SeanDeNigris 6/10/2013 22:00",
 		"selectedIndex" : "SeanDeNigris 6/8/2013 15:42",
-		"selectedIndex:" : "SeanDeNigris 6/8/2013 15:41",
-		"selection" : "SeanDeNigris 6/8/2013 15:54" } }
+		"selectedIndex:" : "SeanDeNigris 6/8/2013 15:41" } }
