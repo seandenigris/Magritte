@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-Tests-Model-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"baseModel",
+		"derivedModel" ],
+	"name" : "MADerivedDescriptions",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
