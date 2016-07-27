@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"report",
-		"commands" ],
+		"commandColumn" ],
 	"name" : "MAOneToManyComponent",
 	"pools" : [
 		 ],
