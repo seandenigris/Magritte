@@ -5,6 +5,7 @@
 		"memento:description:parent:" : "lr 3/9/2006 11:33" },
 	"instance" : {
 		"barMorph:" : "lr 3/9/2006 11:33",
+		"buildMorph" : "SeanDeNigris 6/10/2013 21:55",
 		"buildMorphEditorOn:" : "SeanDeNigris 6/10/2013 21:55",
 		"buildMorphViewOn:" : "SeanDeNigris 6/10/2013 21:55",
 		"buttonMorph:" : "lr 2/21/2008 11:33",
@@ -15,7 +16,7 @@
 		"magritteDescription" : "NickAger 1/17/2012 15:56",
 		"memento" : "lr 3/9/2006 11:33",
 		"model" : "lr 3/9/2006 11:33",
-		"morph" : "SeanDeNigris 3/26/2015 16:31",
+		"morph" : "lr 3/9/2006 11:33",
 		"parent" : "lr 3/9/2006 11:33",
 		"perform:orSendTo:" : "lr 3/9/2006 11:33",
 		"rectangleMorph" : "TudorGirba 11/4/2013 06:11",
@@ -26,10 +27,4 @@
 		"setParent:" : "lr 3/9/2006 11:33",
 		"stringMorph" : "lr 3/9/2006 11:33",
 		"validate" : "lr 3/9/2006 11:33",
-		"visit:" : "SeanDeNigris 3/26/2015 16:30",
-		"visitBooleanDescription:" : "SeanDeNigris 3/26/2015 14:37",
-		"visitMagnitudeDescription:" : "SeanDeNigris 3/26/2015 14:37",
-		"visitNumberDescription:" : "SeanDeNigris 3/26/2015 14:37",
-		"visitStringDescription:" : "SeanDeNigris 3/26/2015 14:38",
-		"visitorClass" : "SeanDeNigris 3/26/2015 16:27",
 		"windowMorph" : "NickAger 1/19/2012 17:00" } }

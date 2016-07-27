@@ -4,8 +4,9 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "SeanDeNigris 3/26/2015 16:36",
+	"commentStamp" : "",
 	"instvars" : [
+		"children",
 		"answerBlock" ],
 	"name" : "MAContainerMorph",
 	"pools" : [
