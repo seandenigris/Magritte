@@ -2,10 +2,10 @@
 	"class" : {
 		"defaultKind" : "lr 9/3/2009 17:24",
 		"defaultSeparators" : "jf 9/18/2009 14:28",
-		"descriptionSeparators" : "NickAger 1/16/2012 15:31",
 		"isAbstract" : "lr 3/9/2006 11:33",
 		"label" : "lr 3/9/2006 11:33" },
 	"instance" : {
 		"acceptMagritte:" : "lr 3/9/2006 11:32",
+		"descriptionSeparators" : "NickAger 1/16/2012 17:27",
 		"separators" : "lr 2/5/2009 10:46",
 		"separators:" : "lr 2/5/2009 10:57" } }

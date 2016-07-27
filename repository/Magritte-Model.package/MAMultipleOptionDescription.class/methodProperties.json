@@ -3,8 +3,6 @@
 		"defaultDistinct" : "lr 3/9/2006 11:33",
 		"defaultKind" : "lr 9/3/2009 17:23",
 		"defaultOrdered" : "lr 3/9/2006 11:33",
-		"descriptionDistinct" : "NickAger 1/16/2012 15:31",
-		"descriptionOrdered" : "NickAger 1/16/2012 15:31",
 		"isAbstract" : "lr 3/9/2006 11:33",
 		"label" : "lr 3/9/2006 11:33" },
 	"instance" : {
@@ -13,6 +11,8 @@
 		"beIndefinite" : "lr 3/9/2006 11:32",
 		"beOrdered" : "lr 3/9/2006 11:32",
 		"beUnordered" : "lr 3/9/2006 11:32",
+		"descriptionDistinct" : "NickAger 1/16/2012 18:18",
+		"descriptionOrdered" : "NickAger 1/16/2012 18:19",
 		"distinct" : "lr 3/9/2006 11:32",
 		"distinct:" : "lr 3/9/2006 11:32",
 		"isDistinct" : "lr 3/9/2006 11:32",

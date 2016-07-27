@@ -1,16 +1,16 @@
 {
 	"class" : {
 		"defaultOptions" : "lr 3/9/2006 11:33",
-		"defaultSorted" : "lr 3/9/2006 11:33",
-		"descriptionDefault" : "NickAger 1/16/2012 15:35",
-		"descriptionOptions" : "NickAger 1/16/2012 15:31",
-		"descriptionSorted" : "NickAger 1/16/2012 15:31" },
+		"defaultSorted" : "lr 3/9/2006 11:33" },
 	"instance" : {
 		"acceptMagritte:" : "lr 3/9/2006 11:32",
 		"allOptions" : "lr 3/9/2006 11:32",
 		"allOptionsWith:" : "lr 5/5/2006 19:31",
 		"beSorted" : "lr 3/9/2006 11:32",
 		"beUnsorted" : "lr 3/9/2006 11:32",
+		"descriptionDefault" : "NickAger 1/16/2012 17:27",
+		"descriptionOptions" : "NickAger 1/16/2012 18:19",
+		"descriptionSorted" : "NickAger 1/16/2012 18:19",
 		"isSorted" : "lr 3/9/2006 11:32",
 		"labelForOption:" : "lr 9/12/2007 17:27",
 		"options" : "lr 3/9/2006 11:32",

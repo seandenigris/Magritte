@@ -2,8 +2,6 @@
 	"class" : {
 		"defaultAccessor" : "lr 4/10/2008 13:55",
 		"defaultCollection" : "lr 3/9/2006 11:32",
-		"descriptionChildren" : "NickAger 1/16/2012 15:31",
-		"descriptionDefault" : "NickAger 1/16/2012 15:34",
 		"isAbstract" : "lr 3/9/2006 11:32",
 		"with:" : "lr 3/9/2006 11:32",
 		"withAll:" : "lr 3/9/2006 11:32" },
@@ -23,6 +21,8 @@
 		"copyFrom:to:" : "lr 3/9/2006 11:32",
 		"copyWithout:" : "lr 2/12/2007 19:06",
 		"copyWithoutAll:" : "lr 2/12/2007 19:06",
+		"descriptionChildren" : "NickAger 1/16/2012 18:14",
+		"descriptionDefault" : "NickAger 1/16/2012 17:27",
 		"detect:" : "lr 3/9/2006 11:32",
 		"detect:ifNone:" : "lr 3/9/2006 11:32",
 		"do:" : "lr 3/9/2006 11:32",

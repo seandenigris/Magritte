@@ -1,14 +1,14 @@
 {
 	"class" : {
 		"defaultClasses" : "lr 3/9/2006 11:33",
-		"defaultReference" : "lr 3/9/2006 11:33",
-		"descriptionClasses" : "NickAger 1/16/2012 15:31",
-		"descriptionReference" : "NickAger 1/16/2012 15:31" },
+		"defaultReference" : "lr 3/9/2006 11:33" },
 	"instance" : {
 		"acceptMagritte:" : "lr 3/9/2006 11:32",
 		"allClasses" : "lr 3/9/2006 11:32",
 		"classes" : "lr 3/9/2006 11:32",
 		"classes:" : "lr 3/9/2006 11:32",
 		"commonClass" : "lr 5/27/2006 17:20",
+		"descriptionClasses" : "NickAger 1/16/2012 17:27",
+		"descriptionReference" : "NickAger 1/16/2012 17:27",
 		"postCopy" : "lr 3/26/2007 11:45",
 		"reference" : "lr 4/10/2007 21:42" } }

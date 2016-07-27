@@ -3,11 +3,12 @@
 		"description" : "EstebanLorenzano 12/11/2011 12:34",
 		"magritteDescription" : "EstebanLorenzano 12/11/2011 12:31" },
 	"instance" : {
-		"basicMagritteDescription" : "EstebanLorenzano 12/11/2011 12:36",
 		"description" : "NickAger 1/11/2012 18:17",
+		"descriptionContainer" : "NickAger 1/16/2012 17:36",
 		"initializeMagritte" : "lr 9/23/2008 08:15",
 		"isDescription" : "lr 3/9/2006 11:31",
-		"magritteDescription" : "EstebanLorenzano 12/11/2011 12:35",
+		"label" : "NickAger 1/16/2012 17:38",
+		"magritteDescription" : "NickAger 1/16/2012 17:31",
 		"mementoClass" : "lr 3/9/2006 11:31",
 		"readUsing:" : "lr 3/9/2006 11:31",
 		"write:using:" : "lr 3/9/2006 11:31" } }

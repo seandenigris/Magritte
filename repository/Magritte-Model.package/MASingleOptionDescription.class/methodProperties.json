@@ -1,14 +1,14 @@
 {
 	"class" : {
 		"defaultExtensible" : "lr 3/9/2006 11:33",
-		"descriptionExtensible" : "NickAger 1/16/2012 15:31",
-		"descriptionGroupBy" : "NickAger 1/16/2012 15:31",
 		"isAbstract" : "lr 3/9/2006 11:33",
 		"label" : "lr 3/9/2006 11:33" },
 	"instance" : {
 		"acceptMagritte:" : "lr 3/9/2006 11:32",
 		"beExtensible" : "lr 3/9/2006 11:32",
 		"beLimited" : "lr 3/9/2006 11:32",
+		"descriptionExtensible" : "NickAger 1/16/2012 18:20",
+		"descriptionGroupBy" : "NickAger 1/16/2012 17:27",
 		"extensible" : "lr 3/9/2006 11:32",
 		"extensible:" : "lr 3/9/2006 11:32",
 		"groupBy" : "lr 9/3/2008 11:43",
