@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Morph-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selected" ],
+	"name" : "MAMultiSelectListMorph",
+	"pools" : [
+		 ],
+	"super" : "MAListMorph",
+	"type" : "normal" }

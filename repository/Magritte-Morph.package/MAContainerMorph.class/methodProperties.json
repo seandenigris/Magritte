@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addButtons" : "lr 3/9/2006 11:33",
+		"addButtons:" : "lr 10/30/2006 13:41",
+		"addWindow" : "TudorGirba 5/7/2011 23:29",
+		"answer:" : "lr 6/17/2010 09:39",
+		"buildChildren" : "lr 3/9/2006 11:33",
+		"buildMorphView" : "lr 3/9/2006 11:33",
+		"callInHand" : "lr 3/9/2006 11:33",
+		"callInWorld" : "lr 3/9/2006 11:33",
+		"cancel" : "lr 4/5/2007 17:12",
+		"children" : "lr 3/9/2006 11:33",
+		"onAnswer:" : "lr 3/9/2006 11:33",
+		"openInHand" : "lr 3/9/2006 11:33",
+		"openInWorld" : "lr 3/9/2006 11:33",
+		"save" : "jf 10/28/2009 15:28",
+		"setChildren:" : "lr 3/9/2006 11:33",
+		"setDescription:" : "lr 3/9/2006 11:33",
+		"waitUntilClosed" : "TudorGirba 5/7/2011 23:34" } }

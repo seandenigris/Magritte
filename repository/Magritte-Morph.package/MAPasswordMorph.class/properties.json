@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Morph-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MAPasswordMorph",
+	"pools" : [
+		 ],
+	"super" : "MATextMorph",
+	"type" : "normal" }

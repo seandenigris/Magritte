@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Morph-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tg 5/6/2009 13:26",
+	"instvars" : [
+		 ],
+	"name" : "MASilentContainerMorph",
+	"pools" : [
+		 ],
+	"super" : "MAContainerMorph",
+	"type" : "normal" }
