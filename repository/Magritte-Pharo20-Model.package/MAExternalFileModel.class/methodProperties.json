@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"baseDirectory" : "DamienCassou 11/11/2012 20:18",
+		"baseDirectory:" : "lr 9/28/2007 07:42",
+		"baseDirectoryPath" : "jf 9/28/2009 13:36",
+		"baseDirectoryPath:" : "jf 9/28/2009 13:33",
+		"baseUrl" : "lr 9/28/2007 07:44",
+		"baseUrl:" : "lr 9/28/2007 07:42",
+		"garbageCollect" : "lr 9/9/2008 00:02",
+		"initialize" : "lr 9/28/2007 08:20",
+		"locationDefinition" : "lr 9/8/2008 23:26" },
+	"instance" : {
+		"=" : "lr 11/6/2009 15:38",
+		"baseDirectory" : "lr 9/28/2007 07:43",
+		"baseUrl" : "lr 9/28/2007 07:45",
+		"contents" : "DamienCassou 11/11/2012 20:46",
+		"contents:" : "nfr 10/17/2007 12:26",
+		"directory" : "DamienCassou 11/11/2012 20:21",
+		"finalize" : "lr 11/18/2007 10:34",
+		"hash" : "lr 11/6/2009 15:38",
+		"location" : "lr 1/26/2007 18:19",
+		"locationDefinition" : "lr 9/8/2008 23:26",
+		"postCopy" : "lr 3/28/2007 10:27",
+		"readStream" : "lr 1/26/2007 18:16",
+		"uniqueLocation:" : "DamienCassou 11/11/2012 20:19",
+		"writeStream" : "DamienCassou 11/11/2012 20:29" } }
