@@ -16,6 +16,7 @@
 		"defaultUndefined" : "lr 3/9/2006 11:32",
 		"defaultValidator" : "lr 2/16/2007 08:39",
 		"defaultVisible" : "lr 3/9/2006 11:32",
+		"defaultVisibleInReport" : "EstebanMaringolo 11/21/2014 16:29",
 		"grouping" : "lr 11/1/2009 08:36" },
 	"instance" : {
 		"," : "lr 4/10/2007 21:32",
@@ -114,4 +115,6 @@
 		"validator" : "lr 2/16/2007 08:39",
 		"validator:" : "lr 2/16/2007 08:39",
 		"visible" : "lr 4/10/2007 21:39",
-		"visible:" : "lr 3/9/2006 11:32" } }
+		"visible:" : "lr 3/9/2006 11:32",
+		"visibleInReport" : "EstebanMaringolo 11/21/2014 16:29",
+		"visibleInReport:" : "EstebanMaringolo 11/21/2014 16:26" } }
