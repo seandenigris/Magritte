@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMagritte3",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMagritte3",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
