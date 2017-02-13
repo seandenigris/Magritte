@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'Magritte3',
+      #directory : 'repository',
+      #platforms : [ #pharo ]
+    }
+  ]
+}
