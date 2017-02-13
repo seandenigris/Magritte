@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/seandenigris/Magritte3.png?branch=master)](https://travis-ci.org/seandenigris/Magritte3)
 Most applications consist of a big number of model- or so called domain-objects. Building different views, editors, and reports; querying, validating and storing those objects is very repetitive and error-prone, if an object changes its shape frequently.
 
 Magritte is a fully dynamic meta-description framework that helps to solve those problems, while keeping the full power with the programmer in all aspects. Moreover since Magritte is described in itself, you can let your users modify the meta-world and add their own fields and forms without writing a single line of code.
