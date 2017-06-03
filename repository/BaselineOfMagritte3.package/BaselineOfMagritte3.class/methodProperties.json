@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"baseline300ForGemStone:" : "SeanDeNigris 6/17/2016 20:11",
-		"baseline310CommonExtDeps:" : "SeanDeNigris 6/17/2016 20:11",
 		"baseline330:" : "SeanDeNigris 7/20/2016 20:20",
-		"baseline330ForPharo:" : "SeanDeNigris 6/17/2016 20:11" } }
+		"baseline310CommonExtDeps:" : "SeanDeNigris 6/17/2016 20:11",
+		"baseline330ForPharo:" : "SeanDeNigris 6/3/2017 07:44",
+		"baseline300ForGemStone:" : "SeanDeNigris 6/17/2016 20:11"
+	},
+	"class" : { }
+}
