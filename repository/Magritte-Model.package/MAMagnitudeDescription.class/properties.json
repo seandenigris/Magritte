@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Model-Description",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 4/10/2007 21:08",
-	"instvars" : [
-		 ],
-	"name" : "MAMagnitudeDescription",
-	"pools" : [
-		 ],
 	"super" : "MAElementDescription",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Description",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAMagnitudeDescription",
+	"type" : "normal"
+}

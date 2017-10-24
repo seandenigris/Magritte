@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Model-Exception",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "MAPropertyError",
-	"pools" : [
-		 ],
 	"super" : "MAError",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAPropertyError",
+	"type" : "normal"
+}

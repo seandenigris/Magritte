@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Model-Exception",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 5/17/2006 15:16",
-	"instvars" : [
-		 ],
-	"name" : "MAKindError",
-	"pools" : [
-		 ],
 	"super" : "MAValidationError",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAKindError",
+	"type" : "normal"
+}

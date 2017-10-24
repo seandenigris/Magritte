@@ -1,15 +1,14 @@
 {
-	"category" : "Magritte-Model-Models",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 6/2/2006 00:30",
+	"super" : "MABasicObject",
+	"category" : "Magritte-Model-Models",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"magritteDescription",
-		"values" ],
+		"values"
+	],
 	"name" : "MAAdaptiveModel",
-	"pools" : [
-		 ],
-	"super" : "MABasicObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

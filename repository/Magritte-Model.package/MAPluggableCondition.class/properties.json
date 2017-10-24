@@ -1,17 +1,16 @@
 {
-	"category" : "Magritte-Model-Utility",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "MACondition",
+	"category" : "Magritte-Model-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"receiver",
 		"selector",
 		"arguments",
-		"index" ],
+		"index"
+	],
 	"name" : "MAPluggableCondition",
-	"pools" : [
-		 ],
-	"super" : "MACondition",
-	"type" : "normal" }
+	"type" : "normal"
+}

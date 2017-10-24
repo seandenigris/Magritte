@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Model-Memento",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 5/17/2006 15:02",
-	"instvars" : [
-		 ],
-	"name" : "MAStraightMemento",
-	"pools" : [
-		 ],
 	"super" : "MAMemento",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Memento",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAStraightMemento",
+	"type" : "normal"
+}

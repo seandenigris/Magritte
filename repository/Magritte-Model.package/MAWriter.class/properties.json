@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Model-Visitor",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "MAWriter",
-	"pools" : [
-		 ],
 	"super" : "MAStreamingVisitor",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Visitor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAWriter",
+	"type" : "normal"
+}

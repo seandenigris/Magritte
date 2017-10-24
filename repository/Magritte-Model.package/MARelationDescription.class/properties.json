@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Model-Description",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 4/10/2007 21:10",
-	"instvars" : [
-		"classes" ],
-	"name" : "MARelationDescription",
-	"pools" : [
-		 ],
 	"super" : "MAReferenceDescription",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Description",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"classes"
+	],
+	"name" : "MARelationDescription",
+	"type" : "normal"
+}

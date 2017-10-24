@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Model-Utility",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "MADynamicVariable",
-	"pools" : [
-		 ],
 	"super" : "GRNotification",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MADynamicVariable",
+	"type" : "normal"
+}

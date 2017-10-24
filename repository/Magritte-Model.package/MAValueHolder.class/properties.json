@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Model-Utility",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"contents" ],
-	"name" : "MAValueHolder",
-	"pools" : [
-		 ],
 	"super" : "MABasicObject",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contents"
+	],
+	"name" : "MAValueHolder",
+	"type" : "normal"
+}

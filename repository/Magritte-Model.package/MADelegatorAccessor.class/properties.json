@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Model-Accessor",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 2/14/2008 09:56",
-	"instvars" : [
-		"next" ],
-	"name" : "MADelegatorAccessor",
-	"pools" : [
-		 ],
 	"super" : "MAAccessor",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Accessor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"next"
+	],
+	"name" : "MADelegatorAccessor",
+	"type" : "normal"
+}

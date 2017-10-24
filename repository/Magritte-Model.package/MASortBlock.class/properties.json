@@ -1,15 +1,14 @@
 {
-	"category" : "Magritte-Model-Utility",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "MABasicObject",
+	"category" : "Magritte-Model-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"accessor",
-		"selector" ],
+		"selector"
+	],
 	"name" : "MASortBlock",
-	"pools" : [
-		 ],
-	"super" : "MABasicObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

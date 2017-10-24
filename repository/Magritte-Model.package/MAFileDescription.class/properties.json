@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Model-Description",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 5/17/2006 14:44",
-	"instvars" : [
-		 ],
-	"name" : "MAFileDescription",
-	"pools" : [
-		 ],
 	"super" : "MAElementDescription",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Description",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAFileDescription",
+	"type" : "normal"
+}

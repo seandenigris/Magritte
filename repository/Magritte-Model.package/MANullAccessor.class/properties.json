@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Model-Accessor",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 5/29/2006 09:21",
-	"instvars" : [
-		"uuid" ],
-	"name" : "MANullAccessor",
-	"pools" : [
-		 ],
 	"super" : "MAAccessor",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Accessor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"uuid"
+	],
+	"name" : "MANullAccessor",
+	"type" : "normal"
+}

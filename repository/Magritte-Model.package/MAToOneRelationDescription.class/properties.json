@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Model-Description",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "MAToOneRelationDescription",
-	"pools" : [
-		 ],
 	"super" : "MARelationDescription",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Description",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAToOneRelationDescription",
+	"type" : "normal"
+}

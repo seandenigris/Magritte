@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Model-Accessor",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		"key" ],
-	"name" : "MADictionaryAccessor",
-	"pools" : [
-		 ],
 	"super" : "MAAccessor",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Accessor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key"
+	],
+	"name" : "MADictionaryAccessor",
+	"type" : "normal"
+}

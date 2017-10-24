@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Model-Utility",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"conditions" ],
-	"name" : "MAConjunctiveCondition",
-	"pools" : [
-		 ],
 	"super" : "MACondition",
-	"type" : "normal" }
+	"category" : "Magritte-Model-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"conditions"
+	],
+	"name" : "MAConjunctiveCondition",
+	"type" : "normal"
+}
