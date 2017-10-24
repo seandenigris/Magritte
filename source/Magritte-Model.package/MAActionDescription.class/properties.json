@@ -6,13 +6,17 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"selector",
 		"enableBlock",
 		"model",
 		"comment",
 		"priority",
 		"label",
+<<<<<<< HEAD
 		"shortcut"
+=======
+		"shortcut",
+		"action"
+>>>>>>> ac3bb6a... [Enh]: Actions, besides selectors, can now be any valuable (e.g. aBlock)
 	],
 	"name" : "MAActionDescription",
 	"type" : "normal"
