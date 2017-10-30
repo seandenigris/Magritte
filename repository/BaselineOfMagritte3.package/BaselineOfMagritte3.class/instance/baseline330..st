@@ -13,9 +13,9 @@ baseline330: spec
 				package: 'Magritte-Tests-Model' with: [ spec requires: #('Magritte-Model') ];
 				package: 'Magritte-Seaside' with: [ spec requires: #('Magritte-Model' 'Seaside3') ];
 				package: 'Magritte-Bootstrap' with: [ spec requires: #('Magritte-Model') ];
-				package: 'Magritte-Deprecated' with: [ spec requires: #('Magritte-Model') ].
+				package: 'Magritte-Deprecated' with: [ spec requires: #('Magritte-Model') ];
+				package: 'Magritte-Merging' with: [ spec requires: #('Magritte-Model') ].
 			spec
-				group: 'default' with: #('Core');
 				group: 'Core' with: #('Magritte-Model');
 				group: 'Tests' with: #('Magritte-Tests-Model');
 				group: 'Seaside' with: #('Magritte-Seaside');
