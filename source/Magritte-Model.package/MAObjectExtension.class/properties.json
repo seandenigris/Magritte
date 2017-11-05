@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SeanDeNigris 11/5/2017 15:29",
+	"super" : "Object",
+	"category" : "Magritte-Model-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object"
+	],
+	"name" : "MAObjectExtension",
+	"type" : "normal"
+}
