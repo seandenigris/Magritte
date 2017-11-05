@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Morph-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "MAExternalEditorMorph",
-	"pools" : [
-		 ],
 	"super" : "MAOneToOneMorph",
-	"type" : "normal" }
+	"category" : "Magritte-Morph-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAExternalEditorMorph",
+	"type" : "normal"
+}

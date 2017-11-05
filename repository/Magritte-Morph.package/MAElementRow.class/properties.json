@@ -1,15 +1,14 @@
 {
-	"category" : "Magritte-Morph-Report",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "BorderedMorph",
+	"category" : "Magritte-Morph-Report",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"object",
-		"container" ],
+		"container"
+	],
 	"name" : "MAElementRow",
-	"pools" : [
-		 ],
-	"super" : "BorderedMorph",
-	"type" : "normal" }
+	"type" : "normal"
+}

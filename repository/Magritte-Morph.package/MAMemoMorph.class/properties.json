@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Morph-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "MAMemoMorph",
-	"pools" : [
-		 ],
 	"super" : "MAElementMorph",
-	"type" : "normal" }
+	"category" : "Magritte-Morph-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAMemoMorph",
+	"type" : "normal"
+}

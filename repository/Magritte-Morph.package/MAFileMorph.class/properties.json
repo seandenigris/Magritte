@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Morph-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"rectangleMorph" ],
-	"name" : "MAFileMorph",
-	"pools" : [
-		 ],
 	"super" : "MAElementMorph",
-	"type" : "normal" }
+	"category" : "Magritte-Morph-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rectangleMorph"
+	],
+	"name" : "MAFileMorph",
+	"type" : "normal"
+}

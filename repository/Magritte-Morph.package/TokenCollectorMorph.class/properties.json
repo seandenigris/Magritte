@@ -1,10 +1,10 @@
 {
-	"category" : "Magritte-Morph-Morphs",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "Magritte-Morph-Morphs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"options",
 		"tokenViewer",
@@ -14,9 +14,8 @@
 		"stringDecoder",
 		"objects",
 		"whenObjectsChangedBlock",
-		"factory" ],
+		"factory"
+	],
 	"name" : "TokenCollectorMorph",
-	"pools" : [
-		 ],
-	"super" : "Morph",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"isAbstract" : "SeanDeNigris 6/8/2013 23:24" },
-	"instance" : {
-		"buildComponent" : "SeanDeNigris 6/10/2013 21:58",
-		"children" : "SeanDeNigris 6/8/2013 23:24",
-		"component" : "SeanDeNigris 6/8/2013 23:24",
-		"create" : "SeanDeNigris 8/12/2015 00:49",
-		"renderViewerOn:" : "SeanDeNigris 6/8/2013 23:24" } }

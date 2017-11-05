@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Morph-Morphs",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"object" ],
-	"name" : "TokenMorph",
-	"pools" : [
-		 ],
 	"super" : "Morph",
-	"type" : "normal" }
+	"category" : "Magritte-Morph-Morphs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object"
+	],
+	"name" : "TokenMorph",
+	"type" : "normal"
+}
