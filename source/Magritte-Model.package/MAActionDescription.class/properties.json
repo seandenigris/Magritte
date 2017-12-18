@@ -15,8 +15,14 @@
 		"shortcut"
 =======
 		"shortcut",
+<<<<<<< HEAD
 		"action"
 >>>>>>> ac3bb6a... [Enh]: Actions, besides selectors, can now be any valuable (e.g. aBlock)
+=======
+		"action",
+		"icon",
+		"isMutator"
+>>>>>>> 0716398... [Enh]: Flesh Out MAActions and hook into Glamour*
 	],
 	"name" : "MAActionDescription",
 	"type" : "normal"
