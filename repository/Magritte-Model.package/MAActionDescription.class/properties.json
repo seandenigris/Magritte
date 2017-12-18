@@ -12,7 +12,9 @@
 		"priority",
 		"label",
 		"shortcut",
-		"action"
+		"action",
+		"icon",
+		"isMutator"
 	],
 	"name" : "MAActionDescription",
 	"type" : "normal"
