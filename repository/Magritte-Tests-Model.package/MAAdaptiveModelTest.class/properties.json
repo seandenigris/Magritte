@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Tests-Model-Models",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"scaffolder" ],
-	"name" : "MAAdaptiveModelTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Magritte-Tests-Model-Models",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"scaffolder"
+	],
+	"name" : "MAAdaptiveModelTest",
+	"type" : "normal"
+}

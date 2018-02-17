@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Tests-Model-Description",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "MAFileModelStub",
-	"pools" : [
-		 ],
 	"super" : "MAFileModel",
-	"type" : "normal" }
+	"category" : "Magritte-Tests-Model-Description",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAFileModelStub",
+	"type" : "normal"
+}

@@ -1,8 +1,0 @@
-{
-	"class" : {
-		"isAbstract" : "lr 3/9/2006 11:35" },
-	"instance" : {
-		"actualClass" : "lr 3/9/2006 11:34",
-		"includedInstance" : "lr 10/18/2007 18:21",
-		"shouldSkipStringTests" : "lr 3/9/2006 11:34",
-		"testKind" : "jf 9/15/2009 15:39" } }

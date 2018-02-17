@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"descriptions" : "NickAger 1/17/2012 14:56",
-		"scaffolder" : "lr 3/9/2006 11:35",
-		"setUp" : "NickAger 1/17/2012 14:56",
-		"testRead" : "lr 3/9/2006 11:35",
-		"testWrite" : "lr 3/9/2006 11:35" } }

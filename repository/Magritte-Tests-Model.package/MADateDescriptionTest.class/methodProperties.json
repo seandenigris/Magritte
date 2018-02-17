@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"isAbstract" : "lr 3/9/2006 11:35" },
-	"instance" : {
-		"actualClass" : "lr 3/9/2006 11:34",
-		"excludedInstance" : "dkh 11/01/2007 17:41",
-		"includedInstance" : "lr 1/18/2008 19:16",
-		"maxInstance" : "dkh 11/01/2007 17:42",
-		"minInstance" : "dkh 11/01/2007 17:42" } }

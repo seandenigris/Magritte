@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"defaultUnique" : "lr 3/9/2006 11:35",
-		"isAbstract" : "lr 3/9/2006 11:35" },
-	"instance" : {
-		"actualClass" : "lr 3/9/2006 11:34",
-		"includedInstance" : "lr 3/9/2006 11:34",
-		"testOrdered" : "lr 3/9/2006 11:34",
-		"testSorted" : "lr 3/9/2006 11:34" } }
