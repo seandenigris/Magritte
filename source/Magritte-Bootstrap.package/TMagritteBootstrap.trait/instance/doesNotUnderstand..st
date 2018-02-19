@@ -1,10 +1,7 @@
-as yet unclassified
+reflective operations
 doesNotUnderstand: aMessage
 	 
-	| handler |
-	handler := self magritteDescription 
-		detect: [ :d | d accessor handlesSelector: aMessage selector ]
-		ifNone: [ nil ].
-	^ handler	
-			ifNotNil: [ handler handleMessage: aMessage for: self ]
-			ifNil: [ super doesNotUnderstand: aMessage ]
+	^ self magritteDescription 
+			detect: [ :d | d accessor handlesSelector: aMessage selector ]
+			ifFound: [ :handler | handler handleMessage: aMessage for: self ]
+			ifNone: [ super doesNotUnderstand: aMessage ].
