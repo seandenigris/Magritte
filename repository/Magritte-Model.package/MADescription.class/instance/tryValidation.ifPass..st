@@ -1,4 +1,4 @@
-private
+validation-private
 tryValidation: tryBlock ifPass: passBlock
 	| shouldContinue |
 	shouldContinue := true.
