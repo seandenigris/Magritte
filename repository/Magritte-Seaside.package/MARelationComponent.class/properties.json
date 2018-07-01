@@ -1,14 +1,13 @@
 {
-	"category" : "Magritte-Seaside-Components",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"selected" ],
-	"name" : "MARelationComponent",
-	"pools" : [
-		 ],
 	"super" : "MAElementComponent",
-	"type" : "normal" }
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selected"
+	],
+	"name" : "MARelationComponent",
+	"type" : "normal"
+}

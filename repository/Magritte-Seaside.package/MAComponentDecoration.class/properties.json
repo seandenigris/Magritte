@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Seaside-Decorations",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "MAComponentDecoration",
-	"pools" : [
-		 ],
 	"super" : "WADecoration",
-	"type" : "normal" }
+	"category" : "Magritte-Seaside-Decorations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAComponentDecoration",
+	"type" : "normal"
+}

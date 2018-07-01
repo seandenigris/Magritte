@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-Seaside-Components",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "MAOneToManyScalarComponent",
-	"pools" : [
-		 ],
 	"super" : "MAOneToManyComponent",
-	"type" : "normal" }
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MAOneToManyScalarComponent",
+	"type" : "normal"
+}

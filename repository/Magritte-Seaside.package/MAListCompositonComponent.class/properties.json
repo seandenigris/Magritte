@@ -1,15 +1,14 @@
 {
-	"category" : "Magritte-Seaside-Components",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "MAMultipleSelectionComponent",
+	"category" : "Magritte-Seaside-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"availableSelected",
-		"selectedSelected" ],
+		"selectedSelected"
+	],
 	"name" : "MAListCompositonComponent",
-	"pools" : [
-		 ],
-	"super" : "MAMultipleSelectionComponent",
-	"type" : "normal" }
+	"type" : "normal"
+}
