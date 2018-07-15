@@ -12,4 +12,4 @@ renderEditorOn: html
 						index: index
 						in: group
 						on: html ]
-				separatedBy: [ html break ] ]
+				separatedBy: [ self renderSeparatorOn: html ] ]
