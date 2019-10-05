@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "lr 5/17/2006 15:14",
+	"commentStamp" : "",
 	"super" : "GRError",
 	"category" : "Magritte-Model-Exception",
 	"classinstvars" : [ ],

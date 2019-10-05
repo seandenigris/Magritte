@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "DiegoLont 4/2/2017 22:46",
+	"commentStamp" : "",
 	"super" : "MAVisitor",
 	"category" : "Magritte-Model-Builder",
 	"classinstvars" : [ ],
