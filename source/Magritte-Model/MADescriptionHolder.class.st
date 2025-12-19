@@ -1,15 +1,17 @@
 Class {
-	#name : #MADescriptionHolder,
-	#superclass : #MAValueHolder,
-	#category : #'Magritte-Model-Utility'
+	#name : 'MADescriptionHolder',
+	#superclass : 'MAValueHolder',
+	#category : 'Magritte-Model-Utility',
+	#package : 'Magritte-Model',
+	#tag : 'Utility'
 }
 
-{ #category : #'acessing-magritte' }
+{ #category : 'acessing-magritte' }
 MADescriptionHolder class >> descriptionClasses [
 	^ MAElementDescription withAllConcreteClasses asOrderedCollection
 ]
 
-{ #category : #groups }
+{ #category : 'groups' }
 MADescriptionHolder class >> groupChoice [
 	^ Set new
 		add: MABooleanDescription;
@@ -21,7 +23,7 @@ MADescriptionHolder class >> groupChoice [
 		yourself
 ]
 
-{ #category : #groups }
+{ #category : 'groups' }
 MADescriptionHolder class >> groupMagnitude [
 	^ Set new
 		add: MANumberDescription;
@@ -32,7 +34,7 @@ MADescriptionHolder class >> groupMagnitude [
 		yourself
 ]
 
-{ #category : #groups }
+{ #category : 'groups' }
 MADescriptionHolder class >> groupMisc [
 	^ Set new
 		add: MAFileDescription;
@@ -41,7 +43,7 @@ MADescriptionHolder class >> groupMisc [
 		yourself
 ]
 
-{ #category : #groups }
+{ #category : 'groups' }
 MADescriptionHolder class >> groupOf: aClass [ 
 	(self groupText includes: aClass)
 		ifTrue: [ ^ 'Text' ].
@@ -56,7 +58,7 @@ MADescriptionHolder class >> groupOf: aClass [
 	^ 'Other'
 ]
 
-{ #category : #groups }
+{ #category : 'groups' }
 MADescriptionHolder class >> groupPick [
 	^ Set new
 		add: MAColorDescription;
@@ -64,7 +66,7 @@ MADescriptionHolder class >> groupPick [
 		yourself
 ]
 
-{ #category : #groups }
+{ #category : 'groups' }
 MADescriptionHolder class >> groupText [
 	^ Set new
 		add: MAStringDescription;
@@ -75,7 +77,7 @@ MADescriptionHolder class >> groupText [
 
 ]
 
-{ #category : #'acessing-magritte' }
+{ #category : 'acessing-magritte' }
 MADescriptionHolder >> descriptionValue [
 	<magritteDescription>
 	^ MASingleOptionDescription new
@@ -88,7 +90,7 @@ MADescriptionHolder >> descriptionValue [
 		yourself
 ]
 
-{ #category : #initialization }
+{ #category : 'initialization' }
 MADescriptionHolder >> initialize [
 	super initialize.
 	self contents: self class descriptionClasses first

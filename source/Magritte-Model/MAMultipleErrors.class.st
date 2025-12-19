@@ -2,15 +2,17 @@
 I am an error that is raised whenever there are multiple validation rules failing.
 "
 Class {
-	#name : #MAMultipleErrors,
-	#superclass : #MAValidationError,
+	#name : 'MAMultipleErrors',
+	#superclass : 'MAValidationError',
 	#instVars : [
 		'collection'
 	],
-	#category : 'Magritte-Model-Exception'
+	#category : 'Magritte-Model-Exception',
+	#package : 'Magritte-Model',
+	#tag : 'Exception'
 }
 
-{ #category : #'instance creation' }
+{ #category : 'instance creation' }
 MAMultipleErrors class >> description: aDescription errors: aCollection signal: aString [ 
 	^ self new
 		setDescription: aDescription;
@@ -19,19 +21,19 @@ MAMultipleErrors class >> description: aDescription errors: aCollection signal: 
 		yourself
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MAMultipleErrors >> collection [
 	^ collection
 ]
 
-{ #category : #printing }
+{ #category : 'printing' }
 MAMultipleErrors >> printOn: aStream [
 	self collection
 		do: [ :each | aStream print: each ]
 		separatedBy: [ aStream nextPut: Character cr ]
 ]
 
-{ #category : #initialization }
+{ #category : 'initialization' }
 MAMultipleErrors >> setCollection: aCollection [
 	collection := aCollection
 ]

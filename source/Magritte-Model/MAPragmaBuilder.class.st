@@ -5,37 +5,39 @@ I dynamically build container descriptions from instance-side methods decorated 
 # ==#magritteDescription:== for single parameter methods returning Magritte description extensions, where the pragma parameter defines the related Magritte description method. The extension method will be called after the related method to refine the description definition.
 "
 Class {
-	#name : #MAPragmaBuilder,
-	#superclass : #MABasicObject,
-	#category : #'Magritte-Model-Utility'
+	#name : 'MAPragmaBuilder',
+	#superclass : 'MABasicObject',
+	#category : 'Magritte-Model-Utility',
+	#package : 'Magritte-Model',
+	#tag : 'Utility'
 }
 
-{ #category : #constants }
+{ #category : 'constants' }
 MAPragmaBuilder class >> containerPragma [ 
 	^ #magritteContainer
 ]
 
-{ #category : #'instance creation' }
+{ #category : 'instance creation' }
 MAPragmaBuilder class >> for: anObject [
 	^ self new for: anObject
 ]
 
-{ #category : #constants }
+{ #category : 'constants' }
 MAPragmaBuilder class >> magritteDescriptionExtensionPragma [ 
 	^ #magritteDescription:
 ]
 
-{ #category : #constants }
+{ #category : 'constants' }
 MAPragmaBuilder class >> magritteDescriptionPragma [ 
 	^ #magritteDescription
 ]
 
-{ #category : #constants }
+{ #category : 'constants' }
 MAPragmaBuilder class >> magritteSelectors [
 	^ Array with: self containerPragma with: self magritteDescriptionExtensionPragma with: self magritteDescriptionPragma
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> applyExtensions: descriptionExtensions for: each of: anObject to: description [
 	description ifNil: [ ^ nil ].
 	^ (self extensionsFrom: descriptionExtensions matching: description) 
@@ -46,7 +48,7 @@ MAPragmaBuilder >> applyExtensions: descriptionExtensions for: each of: anObject
 				into: [ :desc :extensionSelector | anObject perform: extensionSelector with: description ] ].
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> build: anObject cache: cache [
 	| container |
 	container := cache at: anObject put: (self buildContainer: anObject).
@@ -57,7 +59,7 @@ MAPragmaBuilder >> build: anObject cache: cache [
 
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> buildContainer: anObject [
 	| containerPragmas containerPragma containerSelector extensionSelectors container |
 	
@@ -80,7 +82,7 @@ MAPragmaBuilder >> buildContainer: anObject [
 	^ container
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> buildDescriptions: anObject [
 	| descriptionExtensions descriptionSelectors extendedDescriptions |
 	
@@ -99,7 +101,7 @@ MAPragmaBuilder >> buildDescriptions: anObject [
 	^ extendedDescriptions select: #notNil.
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> description: description extendedBy: descriptionExtensions for: descriptionSelector of: anObject [
 	description ifNil: [ ^ nil ].
 	^ (self extensionsFrom: descriptionExtensions matching: descriptionSelector) 
@@ -110,7 +112,7 @@ MAPragmaBuilder >> description: description extendedBy: descriptionExtensions fo
 				into: [ :desc :extensionSelector | anObject perform: extensionSelector with: description ] ].
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> descriptionExtensions: anObject [
 	| extensionPragmas |
 	
@@ -126,7 +128,7 @@ MAPragmaBuilder >> descriptionExtensions: anObject [
 
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> extensionsFrom: aDictionary matching: aSymbol [
 	"
 	aDictionary - a cache mapping extensionSelectors to the description they extend
@@ -134,7 +136,7 @@ MAPragmaBuilder >> extensionsFrom: aDictionary matching: aSymbol [
 	^ aDictionary at: aSymbol ifAbsent: [ #() ].
 ]
 
-{ #category : #'description building' }
+{ #category : 'description building' }
 MAPragmaBuilder >> for: anObject [
 	| cache |
 	cache := MADynamicDescriptionCache value.
@@ -143,7 +145,7 @@ MAPragmaBuilder >> for: anObject [
 		^ cache at: anObject ifAbsentPut: [ self build: anObject cache: cache ] ]
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> setDefiningContextOf: aDescription to: aSelector in: aClass [
 	| aSource |
 	aDescription ifNil: [ ^ nil ].
@@ -155,7 +157,7 @@ MAPragmaBuilder >> setDefiningContextOf: aDescription to: aSelector in: aClass [
 	aDescription definingContext: aSource.
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAPragmaBuilder >> uniqueDescriptionSelectors: anObject [
 	| descriptionPragmas selectors |
 	

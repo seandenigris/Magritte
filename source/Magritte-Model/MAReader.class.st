@@ -1,20 +1,22 @@
 Class {
-	#name : #MAReader,
-	#superclass : #MAStreamingVisitor,
-	#category : 'Magritte-Model-Visitor'
+	#name : 'MAReader',
+	#superclass : 'MAStreamingVisitor',
+	#category : 'Magritte-Model-Visitor',
+	#package : 'Magritte-Model',
+	#tag : 'Visitor'
 }
 
-{ #category : #'instance creation' }
+{ #category : 'instance creation' }
 MAReader class >> read: aStream description: aDescription [
 	^ self new read: aStream description: aDescription
 ]
 
-{ #category : #private }
+{ #category : 'private' }
 MAReader >> error: aString [ 
 	MAReadError signal: aString
 ]
 
-{ #category : #visiting }
+{ #category : 'visiting' }
 MAReader >> read: aStream description: aDescription [
 	self
 		stream: aStream;

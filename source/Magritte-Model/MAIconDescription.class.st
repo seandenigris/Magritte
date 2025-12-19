@@ -1,18 +1,20 @@
 Class {
-	#name : #MAIconDescription,
-	#superclass : #MAElementDescription,
+	#name : 'MAIconDescription',
+	#superclass : 'MAElementDescription',
 	#instVars : [
 		'iconNameAccessor'
 	],
-	#category : #'Magritte-Model-Description'
+	#category : 'Magritte-Model-Description',
+	#package : 'Magritte-Model',
+	#tag : 'Description'
 }
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MAIconDescription >> iconNameAccessor [
 	^ iconNameAccessor
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MAIconDescription >> iconNameAccessor: anObject [
 	iconNameAccessor := anObject
 ]

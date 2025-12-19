@@ -1,23 +1,25 @@
 Class {
-	#name : #MAConjunctiveCondition,
-	#superclass : #MACondition,
+	#name : 'MAConjunctiveCondition',
+	#superclass : 'MACondition',
 	#instVars : [
 		'conditions'
 	],
-	#category : 'Magritte-Model-Utility'
+	#category : 'Magritte-Model-Utility',
+	#package : 'Magritte-Model',
+	#tag : 'Utility'
 }
 
-{ #category : #operators }
+{ #category : 'operators' }
 MAConjunctiveCondition >> & aCondition [
 	conditions := conditions copyWith: aCondition
 ]
 
-{ #category : #initialization }
+{ #category : 'initialization' }
 MAConjunctiveCondition >> initialize [
 	conditions := #()
 ]
 
-{ #category : #evaluating }
+{ #category : 'evaluating' }
 MAConjunctiveCondition >> value: anObject [
 	^ conditions allSatisfy: [ :each | each value: anObject ]
 ]

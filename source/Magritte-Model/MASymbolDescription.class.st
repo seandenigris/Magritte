@@ -2,22 +2,24 @@
 I am a description of symbols, possible values are instances of ==Symbol==.
 "
 Class {
-	#name : #MASymbolDescription,
-	#superclass : #MAStringDescription,
-	#category : 'Magritte-Model-Description'
+	#name : 'MASymbolDescription',
+	#superclass : 'MAStringDescription',
+	#category : 'Magritte-Model-Description',
+	#package : 'Magritte-Model',
+	#tag : 'Description'
 }
 
-{ #category : #'accessing-defaults' }
+{ #category : 'accessing-defaults' }
 MASymbolDescription class >> defaultKind [
 	^ Symbol
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MASymbolDescription class >> label [
 	^ 'Symbol'
 ]
 
-{ #category : #visiting }
+{ #category : 'visiting' }
 MASymbolDescription >> acceptMagritte: aVisitor [
 	aVisitor visitSymbolDescription: self
 ]
